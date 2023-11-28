@@ -1,6 +1,6 @@
 ![](https://github.com/Gareth-Moore/Gareth-Moore/blob/main/Frame%2021.png)
 
-### **A graduate of Epicode's Full-stack developer course. Intersted in front-end and back-end development, eager to join a vibrant and successful team!** 
+**A graduate of Epicode's Full-stack developer course. Intersted in front-end and back-end development, eager to join a vibrant and successful team!** 
 
 ### **Technologies and Languages:**
 ![](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=flat)
