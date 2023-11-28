@@ -15,15 +15,15 @@
 ✔️ Chakra UI   
 
 ### **Techs:**
-![](https://img.shields.io/badge/i-black?logo=javascript&style=flat)
-![](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat)
-![](https://img.shields.io/badge/CSS-blueviolet?logo=css3&style=flat)
-![](https://img.shields.io/badge/HTML-orange?logo=html5&style=flat)
-![](https://img.shields.io/badge/React.js-blue?logo=react&style=flat)
-![](https://img.shields.io/badge/Express.js-green?logo=node.js&style=flat)
-![](https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=flat)
-![](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&style=flat)
-![](https://img.shields.io/badge/Chakra%20UI-teal?logo=chakra-ui&style=flat)
+![](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=flat)
+![](https://img.shields.io/badge/TypeScript-black?logo=typescript&style=flat)
+![](https://img.shields.io/badge/CSS-black?logo=css3&style=flat)
+![](https://img.shields.io/badge/HTML-black?logo=html5&style=flat)
+![](https://img.shields.io/badge/React.js-black?logo=react&style=flat)
+![](https://img.shields.io/badge/Express.js-black?logo=node.js&style=flat)
+![](https://img.shields.io/badge/MongoDB-black?logo=mongodb&style=flat)
+![](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&style=flat)
+![](https://img.shields.io/badge/Chakra%20UI-black?logo=chakra-ui&style=flat)
 
 ![](https://img.shields.io/badge/JavaScript?logo=javascript&style=flat&logoWidth=40&logoHeight=40)
 ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat&logoWidth=40&logoHeight=40)
