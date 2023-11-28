@@ -1,7 +1,7 @@
 ![](https://github.com/Gareth-Moore/Gareth-Moore/blob/main/Frame%2021.png)
 
-**I'm a recent graduate of Epicode's Full-stack developer course.**
-
+**I'm a graduate of Epicode's Full-stack developer course.** 
+https://img.shields.io/badge/any_text-you_like-blue
 ### Technologies:
 ✔️ JavaScript  
 ✔️ TypeScript   
