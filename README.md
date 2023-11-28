@@ -14,3 +14,13 @@
 ✔️ Bootstrap   
 ✔️ Chakra UI   
 
+### **Techs:**
+![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=flat)
+![](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat)
+![](https://img.shields.io/badge/CSS-blueviolet?logo=css3&style=flat)
+![](https://img.shields.io/badge/HTML-orange?logo=html5&style=flat)
+![](https://img.shields.io/badge/React.js-blue?logo=react&style=flat)
+![](https://img.shields.io/badge/Express.js-green?logo=node.js&style=flat)
+![](https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=flat)
+![](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&style=flat)
+![](https://img.shields.io/badge/Chakra%20UI-teal?logo=chakra-ui&style=flat)
