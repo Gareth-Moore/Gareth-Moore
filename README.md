@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&style=flat)
 ![](https://img.shields.io/badge/Chakra%20UI-black?logo=chakra-ui&style=flat)
 
-**Contact me:**  
+### **Contact me:**  
 <a href="https://www.linkedin.com/in/gareth-moore-14a645150/">
   <img src="https://github.com/Gareth-Moore/Gareth-Moore/blob/main/LinkedIn_logo_initials.png.webp" alt="Linkedin" width="64" height="64">
 </a>
