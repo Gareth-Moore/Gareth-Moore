@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&style=flat)
 ![](https://img.shields.io/badge/Chakra%20UI-black?logo=chakra-ui&style=flat)
 
-If you'd like to contact me please head on to [![](https://github.com/Gareth-Moore/Gareth-Moore/blob/main/Frame%2021.png)](https://www.linkedin.com/in/gareth-moore-14a645150/)
+If you'd like to contact me please head on to: [![](https://github.com/Gareth-Moore/Gareth-Moore/blob/main/LinkedIn_logo_initials.png.webp)](https://www.linkedin.com/in/gareth-moore-14a645150/)
 
 
 
