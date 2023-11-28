@@ -2,6 +2,7 @@
 
 **I'm a graduate of Epicode's Full-stack developer course.** 
 ![](https://img.shields.io/badge/any_text-you_like-blue)
+![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=flat)
 ### Technologies:
 ✔️ JavaScript  
 ✔️ TypeScript   
