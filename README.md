@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&style=flat)
 ![](https://img.shields.io/badge/Chakra%20UI-teal?logo=chakra-ui&style=flat)
 
-![](https://img.shields.io/badge/JavaScript-#161B22?logo=javascript&style=flat&logoWidth=40&logoHeight=40)
+![](https://img.shields.io/badge/JavaScript?logo=javascript&style=flat&logoWidth=40&logoHeight=40)
 ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat&logoWidth=40&logoHeight=40)
 ![](https://img.shields.io/badge/CSS-blueviolet?logo=css3&style=flat&logoWidth=40&logoHeight=40)
 ![](https://img.shields.io/badge/HTML-orange?logo=html5&style=flat&logoWidth=40&logoHeight=40)
