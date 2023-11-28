@@ -15,7 +15,7 @@
 ✔️ Chakra UI   
 
 ### **Techs:**
-![](https://img.shields.io/badge/i-white?logo=javascript&style=flat)
+![](https://img.shields.io/badge/i-black?logo=javascript&style=flat)
 ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat)
 ![](https://img.shields.io/badge/CSS-blueviolet?logo=css3&style=flat)
 ![](https://img.shields.io/badge/HTML-orange?logo=html5&style=flat)
